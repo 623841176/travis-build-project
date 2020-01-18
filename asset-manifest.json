@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travis-build-project/static/css/main.d1b05096.chunk.css",
+    "main.js": "/travis-build-project/static/js/main.25ae2d58.chunk.js",
+    "main.js.map": "/travis-build-project/static/js/main.25ae2d58.chunk.js.map",
+    "runtime-main.js": "/travis-build-project/static/js/runtime-main.a882b858.js",
+    "runtime-main.js.map": "/travis-build-project/static/js/runtime-main.a882b858.js.map",
+    "static/js/2.e8af3f03.chunk.js": "/travis-build-project/static/js/2.e8af3f03.chunk.js",
+    "static/js/2.e8af3f03.chunk.js.map": "/travis-build-project/static/js/2.e8af3f03.chunk.js.map",
+    "index.html": "/travis-build-project/index.html",
+    "precache-manifest.66ddf3998ee2479cb2cf37972e50523a.js": "/travis-build-project/precache-manifest.66ddf3998ee2479cb2cf37972e50523a.js",
+    "service-worker.js": "/travis-build-project/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/travis-build-project/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e8af3f03.chunk.js.LICENSE": "/travis-build-project/static/js/2.e8af3f03.chunk.js.LICENSE",
+    "static/media/logo.svg": "/travis-build-project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a882b858.js",
+    "static/js/2.e8af3f03.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.25ae2d58.chunk.js"
+  ]
+}
