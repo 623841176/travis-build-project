@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - 10
+
+install: 
+  yarn install
+
+script:
+  yarn build
+
+deploy:
+  local_dir: build
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: false
+  email: 623841176@qq.com
+  name: wufei.chen
+  on:
+    branch: master
